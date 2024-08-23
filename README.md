@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rubina Akther
-- I am a passionate frontend developer and aspiring software engineer.
-- I enjoy building responsive and user-friendly websites and am constantly looking for new ways to improve my skills.
-- 
+- I am a passionate frontend developer and aspiring software engineer. I enjoy building responsive and user-friendly websites and am constantly looking for new ways to improve my skills.
+  
 - 👀 I’m interested in:
 - Web development (HTML, CSS, JavaScript, jQuery, React)
 - Building intuitive and dynamic user interfaces
@@ -30,9 +29,7 @@
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:
-- I love experimenting with new web design trends and turning creative ideas into
-real, interactive experiences on the web. When I'm not coding,
-you can find me exploring mathematical puzzles.
+- I love experimenting with new web design trends and turning creative ideas into real, interactive experiences on the web. When I'm not coding, you can find me exploring mathematical puzzles.
 
 - 📈 GitHub Stats
 ![Rubina's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubinaAkther&show_icons=true&theme=radical)
@@ -40,7 +37,6 @@ you can find me exploring mathematical puzzles.
 💼 Featured Projects
 - WiseTutors: The best tutoring platform for home and online tuitions.
 
-Feel free to connect with me if you share similar interests or have exciting 
-projects to collaborate on. Let's build something amazing together!
+Feel free to connect with me if you share similar interests or have exciting projects to collaborate on. Let's build something amazing together!
 
 
