@@ -25,7 +25,7 @@
 
 - 📫 How to reach me:
 - Email: rubinaakther3454@gmail.com
-- LinkedIn: 
+- LinkedIn:
 - Twitter: 
 
 - 😄 Pronouns: She/Her
