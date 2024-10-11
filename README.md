@@ -4,7 +4,14 @@
 
 # Hi there, I'm Rubina Akther 👋
 
-Welcome to my GitHub profile! I’m a **Web Designer**, currently learning the **MERN stack** to expand my skills. I have a passion for creating visually appealing and user-friendly designs that make complex ideas simple and engaging. I'm always excited to explore new tools and technologies to enhance my web development journey.
+Welcome to my GitHub profile!
+👋 I'm a passionate Computer Science & IT student in my 2nd year (3rd semester), on a mission to become a full-fledged Software Engineer. 🚀
+
+💡 My journey began with mastering the fundamentals—Structured Programming in C, diving into Data Structures with C++, and embracing the power of Object-Oriented Programming using C++.
+
+🌐 I have a knack for front-end magic using HTML, CSS, Bootstrap, Sass, Tailwind, JavaScript, and jQuery. Right now, I'm delving deep into the MERN stack, building modern, responsive, and efficient web applications.
+
+🔭 Always curious and driven by a desire to turn ideas into reality, I’m constantly exploring new ways to solve problems through code. Let’s connect, collaborate, and build something amazing together! 💻
 
 ---
 
