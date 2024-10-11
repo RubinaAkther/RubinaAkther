@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** from Dha
 - **[Quiz App](https://github.com/YourGitHubUsername/quiz-app)**  
   A quiz app created with **HTML**, **CSS**, and **JavaScript** that allows users to test their knowledge.
 
-- **[MERN Stack Project - [Your Project Name]](https://github.com/YourGitHubUsername/mern-project)**  
+- **[MERN Stack Project - []](https://github.com/YourGitHubUsername/mern-project)**  
   A full-stack MERN application that showcases CRUD operations and user authentication.
 
 Feel free to explore my repositories to see more projects I've worked on!
