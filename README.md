@@ -2,20 +2,20 @@
 ![I am GitHub Readme Generator's creator](https://scontent.fdac174-1.fna.fbcdn.net/v/t39.30808-6/462617909_522196184084515_3516142370512164155_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEI4ueEKgF4ll-ziW4X6HULBY8UMphoAKIFjxQymGgAoslgU8-2MRGRvWZ8bMGu1Cf6xVE_DKSOr4LLveeBnGCI&_nc_ohc=_HvM00toT2sQ7kNvgHTXtU8&_nc_ht=scontent.fdac174-1.fna&_nc_gid=AYohisXkCgP4q_P7BGfnBHu&oh=00_AYA8YOrwWR6aCD1l06PCjDNMx0w7T_AfCfnUEma9uUJv2g&oe=670E71D7)
 
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rubina Akther 👋
 
-Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** and **UI/UX Designer** from Dhaka, Bangladesh, with a knack for creating intuitive and beautiful web applications. I love turning complex problems into simple, user-friendly solutions.
+Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** from Dhaka, Bangladesh, with a knack for creating intuitive and beautiful web applications. I love turning complex problems into simple, user-friendly solutions.
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Current Project Name/Description]**
+- 🔭 I’m currently working on JavaScript
 - 🌱 I’m continuously learning **MERN Stack** and enhancing my **full-stack development skills**
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative startups**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, UI/UX Design**
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I also enjoy **photography, app development, content marketing, and management**
+- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 📫 Reach me at: [rubinaakther3454@gmail.com](mailto:rubinaakther3454@gmail.com)
+- ⚡ Fun fact: I also enjoy **photography**
 
 ---
 
