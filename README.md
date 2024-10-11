@@ -4,7 +4,7 @@
 
 # Hi there, I'm Rubina Akther 👋
 
-Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** from Dhaka, Bangladesh, with a knack for creating intuitive and beautiful web applications. I love turning complex problems into simple, user-friendly solutions.
+Welcome to my GitHub profile! I’m a *Web Designer*, currently learning the *MERN stack* to expand my skills. I have a passion for creating visually appealing and user-friendly designs that make complex ideas simple and engaging. I'm always excited to explore new tools and technologies to enhance my web development journey.
 
 ---
 
