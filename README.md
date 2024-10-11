@@ -39,25 +39,22 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** from Dha
 ### 📊 GitHub Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RubinaAkther&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubinaAkther&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 
-- **[Restaurant Website](https://github.com/YourGitHubUsername/restaurant-website)**  
+- **[Restaurant Website](https://rubinaakther.github.io/html-css-demo-restaurant-website/)**  
   A responsive website for a restaurant, built using **HTML**, **CSS**, and **JavaScript**.
   
-- **[Wise Tutor Website](https://github.com/YourGitHubUsername/wise-tutor)**  
+- **[Wise Tutor Website](https://rubinaakther.github.io/Day03_-100DaysOfCode/)**  
   A website designed for tutors, built with **HTML**, **CSS**, and **JavaScript**.
 
-- **[Quiz App](https://github.com/YourGitHubUsername/quiz-app)**  
+- **[Portfolio Website](https://rubinaakther.github.io/Assignment1_Portfolio_Website/)**  
   A quiz app created with **HTML**, **CSS**, and **JavaScript** that allows users to test their knowledge.
-
-- **[MERN Stack Project - []](https://github.com/YourGitHubUsername/mern-project)**  
-  A full-stack MERN application that showcases CRUD operations and user authentication.
 
 Feel free to explore my repositories to see more projects I've worked on!
 
