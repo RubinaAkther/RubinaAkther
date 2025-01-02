@@ -59,7 +59,7 @@ Welcome to my GitHub profile!
 - **[Restaurant Website](https://rubinaakther.github.io/html-css-demo-restaurant-website/)**  
   A responsive website for a restaurant, built using **HTML**, **CSS**, and **JavaScript**.
   
-- **[Wise Tutor Website](https://rubinaakther.github.io/Day03_-100DaysOfCode/)**  
+- **[Wise Tutor Website](https://rubinaakther.github.io/WiseTutor/)**  
   A website designed for tutors, built with **HTML**, **CSS**, and **JavaScript**.
 
 - **[Portfolio Website](https://rubinaakther.github.io/Assignment1_Portfolio_Website/)**  
