@@ -5,24 +5,25 @@
 # Hi there, I'm Rubina Akther 👋
 
 Welcome to my GitHub profile!
-👋 I'm a passionate Computer Science & IT student in my 2nd year (3rd semester), on a mission to become a full-fledged Software Engineer. 🚀
 
-💡 My journey began with mastering the fundamentals—Structured Programming in C, diving into Data Structures with C++, and embracing the power of Object-Oriented Programming using C++.
+I am currently pursuing a **Bachelor of Science in Computer Science and Information Technology (CSIT)** at **Sonargaon University (SMUCT)**. I began my academic journey in **October 2023**, and my **expected graduation is October 2027**.
 
-🌐 I have a knack for front-end magic using HTML, CSS, Bootstrap, Sass, Tailwind, JavaScript, and jQuery. Right now, I'm delving deep into the MERN stack, building modern, responsive, and efficient web applications.
+My programming journey started with building a strong foundation in **Structured Programming using C**, followed by **Data Structures and Object-Oriented Programming with C++**. These fundamentals helped me understand core programming concepts and problem-solving techniques.
 
-🔭 Always curious and driven by a desire to turn ideas into reality, I’m constantly exploring new ways to solve problems through code. Let’s connect, collaborate, and build something amazing together! 💻
+I have experience working with **front-end technologies** including **HTML, CSS, Bootstrap, Sass, Tailwind CSS, JavaScript, and jQuery**. Currently, I am focused on learning and building projects using the **MERN Stack (MongoDB, Express.js, React, Node.js)** to develop modern full-stack web applications.
+
+I enjoy turning ideas into real applications through code and continuously improving my development skills by building projects and exploring new technologies.
+
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m continuously learning **MERN Stack** and enhancing my **full-stack development skills**
-- 👯 I’m looking to collaborate on **open-source projects** and **innovative startups**
+- 🔭 Currently focusing on **JavaScript and MERN Stack development**
+- 🌱 Continuously improving my **full-stack development skills**
+- 👯 Interested in collaborating on **open-source projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 Reach me at: [rubinaakther3454@gmail.com](mailto:rubinaakther3454@gmail.com)
-- ⚡ Fun fact: I also enjoy **photography**
 
 ---
 
@@ -56,13 +57,13 @@ Welcome to my GitHub profile!
 
 ### 🌟 Featured Projects
 
-- **[Restaurant Website](https://rubinaakther.github.io/html-css-demo-restaurant-website/)**  
-  A responsive website for a restaurant, built using **HTML**, **CSS**, and **JavaScript**.
+- **[Forever-Ecommerce-Project](https://github.com/RubinaAkther/Forever-Ecommerce-Project)**  
+  A responsive website for a Ecommerce, built using **React**, **Tailwindcss**, **Node.js**, and **MongoDB**.
   
 - **[Wise Tutor Website](https://rubinaakther.github.io/WiseTutor/)**  
   A website designed for tutors, built with **HTML**, **CSS**, and **JavaScript**.
 
-- **[Portfolio Website](https://rubinaakther.github.io/Assignment1_Portfolio_Website/)**  
+- **[Portfolio Website](https://rubina-akther-portfolio.vercel.app/)**  
   A quiz app created with **HTML**, **CSS**, and **JavaScript** that allows users to test their knowledge.
 
 Feel free to explore my repositories to see more projects I've worked on!
@@ -72,13 +73,10 @@ Feel free to explore my repositories to see more projects I've worked on!
 ### 📫 Connect with Me:
 
 <p>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile/">
+  <a href="www.linkedin.com/in/rubinaakther">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/YourTwitterHandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://your-portfolio.com/">
+  <a href="https://rubina-akther-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
 </p>
