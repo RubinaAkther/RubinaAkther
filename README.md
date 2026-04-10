@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile!
 
-I am currently pursuing a **Bachelor of Science in Computer Science and Information Technology (CSIT)** at **Sonargaon University (SMUCT)**. I began my academic journey in **October 2023**, and my **expected graduation is October 2027**.
+I am currently pursuing a **Bachelor of Science in Computer Science and Information Technology (CSIT)** at **Shanto Mariam University of Creative Technology (SMUCT)**. I began my academic journey in **October 2023**, and my **expected graduation is October 2027**.
 
 My programming journey started with building a strong foundation in **Structured Programming using C**, followed by **Data Structures and Object-Oriented Programming with C++**. These fundamentals helped me understand core programming concepts and problem-solving techniques.
 
